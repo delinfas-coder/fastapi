@@ -1,0 +1,12 @@
+site_name: API pro
+
+nav:
+  - About: page.md
+ 
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
